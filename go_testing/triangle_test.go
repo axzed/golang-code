@@ -4,7 +4,7 @@ import "testing"
 
 func TestTraiangle(t *testing.T) {
 	tests := []struct{ a, b, c int }{
-		{3, 4, 0},
+		{3, 4, 5},
 		{5, 12, 13},
 		{8, 15, 17},
 		{12, 35, 37},
